@@ -1,0 +1,3 @@
+-- Stop Skidding kid [discord.gg/philnoob]
+-- Copyright Philnooblua
+loadstring(game:HttpGet("https://gist.githubusercontent.com/philnoob/bb4cc82cb0717934fab0347b74924890/raw/f3932e56f5ee3c136de6940d232aaa095fa7cc72/noskids"))()"))()
